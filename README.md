@@ -1,2 +1,2 @@
 # Johnny-code
-#i dont need a readme i can understand my own code
+Just some simple code for me to use on personal projects. You can use it but its prolly bad code
