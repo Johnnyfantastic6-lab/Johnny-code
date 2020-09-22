@@ -10,7 +10,7 @@ signal heath_full
 export var maxHealth = 1
 export var health = 1
 
-func health_updater(newHealth):
+func update_health(newHealth):
 	var prevHealth = health
 	health = newHealth
 	health = clamp(0, maxHealth, health)
